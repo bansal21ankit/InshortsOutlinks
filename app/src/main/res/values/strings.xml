@@ -1,0 +1,22 @@
+<resources>
+
+    <!-- Base application strings -->
+    <string name="app_name">Inshorts Outlinks</string>
+
+    <!-- General messages -->
+    <string name="msg_error_unknown">Unknown error occurred.</string>
+    <string name="msg_under_construction">Feature coming soon&#8230;</string>
+
+    <!-- Main Activity -->
+    <string name="main_filter">Button to filter list</string>
+    <string name="main_progress_msg">Fetching Articles&#8230;</string>
+    <string name="main_btn_retry">Retry</string>
+
+    <!-- Article Activity -->
+    <string name="article_thumbnail">Thumbnail of article page</string>
+    <string name="article_favorite_added">Article marked as favorite.</string>
+    <string name="article_favorite_removed">Article removed from favorites.</string>
+    <string name="article_publisher" formatted="true"><![CDATA[<b>%1$s</b> | <a href="">%2$s</a>]]></string>
+    <string name="article_category">Category : %1$s</string>
+    <string name="article_timestamp" formatted="true"><![CDATA[<i>%1$s %2$s</i>]]></string>
+</resources>
